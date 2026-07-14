@@ -1,4 +1,4 @@
-# 👻 Nightmare Archives
+# 👻 Horror-Stories-Blog
 
 ### *A Horror Stories & Paranormal Encyclopedia*
 
@@ -15,7 +15,7 @@
 
 ## 🌙 About the Project
 
-**Nightmare Archives** is a horror-themed web project that combines the feel of a **blog**, **paranormal encyclopedia**, and **digital archive** into a single immersive experience.
+**Horror-Stories-Blog** is a horror-themed web project that combines the feel of a **blog**, **paranormal encyclopedia**, and **digital archive** into a single immersive experience.
 
 Instead of simply displaying horror stories, the website allows visitors to explore a structured archive of:
 
@@ -315,7 +315,7 @@ Suggested screenshots:
 
 # ⚠ Disclaimer
 
-Nightmare Archives contains information gathered from:
+Horror-Stories-Blog contains information gathered from:
 
 * Historical folklore
 * Mythology
@@ -331,8 +331,7 @@ Entries are intended for educational, cultural, and entertainment purposes.
 ---
 
 # 👨‍💻 Author
-
-**Omkar Gujar**
+**Prachita Bhoir**
 
 Computer Engineering Student
 
