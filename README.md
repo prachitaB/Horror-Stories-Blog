@@ -341,6 +341,18 @@ Mumbai University
 
 GitHub: *Add your GitHub profile here*
 
+and
+
+**Omkar Gujar**
+
+Computer Engineering Student
+
+Saraswati College of Engineering
+
+Mumbai University
+
+GitHub: *Add your GitHub profile here*
+
 ---
 
 # 🤝 Contributing
